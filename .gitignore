@@ -1,0 +1,13 @@
+.project
+.metadata
+.gradle
+emotion_detection
+.settings
+*.o
+*~
+*.log
+build/src/
+data/features/*.csv
+data/features/*.txt
+data/features/*.gmm
+data/training_data/*
