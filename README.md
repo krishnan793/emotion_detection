@@ -1,4 +1,4 @@
-# Emotion Detection
+# Emotion Detection from Speech
 
 This will detect the emotions in your speech based on the MFCC, Delta, Delta-Delta & Prosodic Features (Fundamental Frequency) present in you voice. It makes use of GMM for classification. Try making models for basic emotions like happy, neutral, anger and sad. The emotion detection is text independent and speaker independent. But you need to train enough database in order to be speaker independent. 
 
